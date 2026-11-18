@@ -1,0 +1,6 @@
+{
+  "name": "answer-card",
+  "version": "0.1.0",
+  "description": "Draws each final answer of a turn in a card with a thin green border, so the replies meant to be read stand out.",
+  "types": "./types/index.d.ts"
+}

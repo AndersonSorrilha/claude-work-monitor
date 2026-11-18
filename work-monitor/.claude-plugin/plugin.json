@@ -1,0 +1,6 @@
+{
+  "name": "work-monitor",
+  "version": "0.1.0",
+  "description": "A side pane that monitors the running turn: status, elapsed time, plan, changes, files, tests, agents and context.",
+  "types": "./types/index.d.ts"
+}

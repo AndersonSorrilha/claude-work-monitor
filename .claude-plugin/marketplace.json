@@ -1,0 +1,8 @@
+{
+  "name": "claude-work-monitor",
+  "owner": { "name": "AndersonSorrilha" },
+  "plugins": [
+    { "name": "work-monitor", "source": "./work-monitor" },
+    { "name": "answer-card", "source": "./answer-card" }
+  ]
+}
