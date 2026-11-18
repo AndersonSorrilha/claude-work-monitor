@@ -52,3 +52,7 @@ claude plugin test work-monitor
 ```
 
 A API de mods do Claude Code está em acesso antecipado e pode mudar entre versões.
+
+## Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE).
